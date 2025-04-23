@@ -1,0 +1,47 @@
+Objetivo do Site:
+O objetivo do site da ONG Vira-Latas é fornecer uma plataforma onde os visitantes possam conhecer a organização, suas ações e como podem contribuir com o bem-estar dos gatos resgatados. O site também busca proporcionar informações essenciais sobre a localização da ONG, horários de funcionamento, formas de ajuda (doações, adoção responsável, etc.) e eventos relacionados à causa.
+
+Funcionalidades do Site:
+Página Inicial:
+
+Objetivo: Receber os visitantes com uma mensagem acolhedora e convidativa.
+Conteúdo: Título com um slogan como "Diversidade para todos!", uma breve explicação sobre a missão da ONG e um botão de ação para escolher como ajudar.
+Quem Somos:
+
+Objetivo: Apresentar a missão, visão e valores da ONG.
+Conteúdo: Descrição detalhada sobre a história da ONG, a importância de suas ações e como ela impacta a vida dos gatos resgatados.
+Como Ajudar:
+
+Objetivo: Informar os visitantes sobre as maneiras de ajudar a ONG, seja por meio de doações financeiras ou itens para os gatos.
+Conteúdo: Detalhamento de como as pessoas podem fazer doações (dinheiro ou itens) e exemplos de como isso ajuda diretamente os gatos resgatados.
+Localização:
+
+Objetivo: Informar os visitantes sobre a localização da ONG e como chegar até lá.
+Conteúdo:
+Endereço completo e mapa interativo (Google Maps).
+Horários de funcionamento.
+Meios de transporte público e estacionamento.
+Pontos de referência próximos.
+Informações de contato, caso alguém tenha dúvidas.
+Contato:
+
+Objetivo: Proporcionar aos visitantes formas de entrar em contato com a ONG para mais informações, dúvidas ou agendamentos.
+Conteúdo: Formulário de contato e links para redes sociais, WhatsApp e e-mail.
+Documentação do Código HTML/CSS:
+
+Objetivo: Apresenta a localização da ONG com o mapa interativo (Google Maps) e informações sobre como chegar, horários e formas de transporte.
+
+
+Imagens e Ícones: Uso de imagens personalizadas como logotipo e ícones de redes sociais para tornar o site visualmente mais atraente. Também há animações de hover em botões para uma interação mais dinâmica.
+
+Tecnologias Utilizadas:
+HTML5: Marcações de estrutura e conteúdo.
+CSS: Estilização do layout e responsividade.
+JavaScript: Script simples para carregar dinamicamente o cabeçalho e alertar o usuário sobre o zoom da página.
+Google Maps Embed API: Utilizada para embutir o mapa interativo.
+
+Requisitos de Acessibilidade e Usabilidade:
+Navegação intuitiva: O site deve ser fácil de navegar, com menus e botões claramente identificáveis.
+Compatibilidade com dispositivos móveis: O design responsivo garante que o site seja acessível em smartphones e tablets.
+Acessibilidade: Todos os elementos devem ser legíveis e interativos para pessoas com deficiência visual, utilizando contrastes adequados e textos alternativos para imagens.
+Interatividade: Inclusão de formulários de contato e botões de ação para facilitar a interação com os visitantes.
